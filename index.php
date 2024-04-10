@@ -65,7 +65,7 @@ include 'components/add_cart.php';
 
 
 
-        <img class="background-image" src="images\category\background.png" >
+        <img class="background-image" src="images\background.png" >
 
         <div class="Tagline">
          <h3> Creamy goodness in a cup. Taste that would definitely make you go OMG!</h3>
@@ -179,11 +179,11 @@ include 'components/add_cart.php';
 </section>
 
 
- <div class="loader">
+<!-- <div class="loader">
    <img src="images/loading.gif" alt="">
 </div> 
 
-
+   -->
    </section>
 
 <div></div>
