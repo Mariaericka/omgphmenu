@@ -9,8 +9,8 @@
 
     <div class="footer-box2" id="footer">
         <h5>Follow us on our social media accounts!</h5>
-        <a href="https://www.facebook.com/omgmainbranch/" target="_blank" class="logo"><img src="images/icons/fb.png"></a>    
-            <a href="https://www.instagram.com/omgmain.ph/" target="_blank" class="logo"><img src="images/icons/ig.png"></a>    
+        <a href="https://www.facebook.com/omgmainbranch/" target="_blank" class="logo"><img src="images/fb.png"></a>    
+            <a href="https://www.instagram.com/omgmain.ph/" target="_blank" class="logo"><img src="images/ig.png"></a>    
     </div>
 
     <div class="footer-contact-us" id="footer">

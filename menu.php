@@ -93,9 +93,10 @@ $select_categories->execute();
     </div> -->
 <div>
 </div>
-<div class="loader">
+
+<!--<div class="loader">
    <img src="images/loading.gif" alt="">
-</div>
+</div>-->
 
 <!-- custom js file link  -->
 <!--<script>
