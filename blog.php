@@ -59,7 +59,7 @@ if(isset($_SESSION['user_id'])){
 
 
    <div class="history-animate">
-   <img src="images\logo\logo.png" class="animation-1" id="blog-logo">
+   <img src="images\logo.png" class="animation-1" id="blog-logo">
    </div>
 </div>
 
@@ -98,42 +98,42 @@ if(isset($_SESSION['user_id'])){
 <div class="blog-box-3">
    <div class="blog-grid">
       <div class="growing">
-         <img src="images\icons\growing.png" alt="growing-image">
+         <img src="images\growing.png" alt="growing-image">
          <h4>Fastest growing and trending franchise</h4>
       </div>
 
 
       <div class="legit">
-         <img src="images\icons\legit.png" alt="legit-image">
+         <img src="images\legit.png" alt="legit-image">
          <h4>Legit and promoted but the VIPs</h4>
       </div>
 
 
       <div class="motorbike">
-         <img src="images\icons\motorbike.png" alt="motorbike-image">
+         <img src="images\motorbike.png" alt="motorbike-image">
          <h4>Food panda <br> integrated</h4>
       </div>
 
 
       <div class="Halal">
-         <img src="images\icons\halal.png" alt="halal-image">
+         <img src="images\halal.png" alt="halal-image">
          <h4 class="Halal">Halal <br> Certified</h4>
       </div>
 
 
       <div class="followers">
-         <img src="images\icons\followers.png" alt="followers-image">
+         <img src="images\followers.png" alt="followers-image">
          <h4>With 1.3 million followers in the food indistry</h4>
       </div>
 
 
       <div class="trophy">
-         <img src="images\icons\Award.png" alt="Award-image">
+         <img src="images\Award.png" alt="Award-image">
          <h4>Franchise are multi-awarded in the field of customer service and training</h4>
       </div>
            
       <div class="outstanding">
-         <img src="images\icons\outsanding.png" alt="oustanding-image">
+         <img src="images\outsanding.png" alt="oustanding-image">
          <h4>The Outstanding Filipino 2019 Recognized</h4>
       </div>
 
@@ -141,7 +141,7 @@ if(isset($_SESSION['user_id'])){
 
 
       <div class="thumbs-up">
-         <img src="images\icons\thumb-up.png" alt="thumbs-up-image">
+         <img src="images\thumb-up.png" alt="thumbs-up-image">
          <h4>Products are very affordable yet the ingredients are of the highest quality</h4>
       </div>
    </div>
