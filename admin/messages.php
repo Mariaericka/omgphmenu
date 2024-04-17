@@ -66,7 +66,7 @@ if(isset($_GET['delete'])){
                             <td><?= $fetch_messages['message']; ?></td>
                             <td>
                                 <a href="messages.php?delete=<?= $fetch_messages['id']; ?>" onclick="return confirm('Delete this message?');">
-                                    <img src="../images/icons/delete.png" class="manage-drink-icons-delete" alt="Delete Message" />
+                                    <img src="../images/delete.png" class="manage-drink-icons-delete" alt="Delete Message" />
                                 </a>
                             </td>
                         </tr>

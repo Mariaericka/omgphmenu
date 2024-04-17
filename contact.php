@@ -131,9 +131,9 @@ if(isset($_POST['send'])){
 
 
 
-<div class="loader">
+<!--<div class="loader">
    <img src="images/loading.gif" alt="">
-</div>
+</div>-->
 
 
 

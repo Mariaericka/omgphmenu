@@ -70,6 +70,11 @@ $select_categories->execute();
          <img src="images/mango fruit yogurt3.png" alt="">
          <h3>Mango Series</h3>
       </a>
+      <a href="category.php?category=cheese" class="box">
+         <img src="images/rocky.png" alt="">
+         <h3>Cheesecake Series</h3>
+      </a>
+    
    
    </div>
 <!-- footer section starts  -->

@@ -75,8 +75,8 @@ if(isset($_GET['delete'])){
      <th> <?= $fetch_products['category']; ?></th>
      <th><img src="../images/<?= $fetch_products['image']; ?>" alt="" width="100px"></th>
      <th>
-         <a href="update_product.php?update=<?= $fetch_products['id']; ?>"><img src="../images/icons/update.png"/ class="manage-drink-icons-update"/></a>
-         <a href="products.php?delete=<?= $fetch_products['id']; ?>" onclick="return confirm('delete this drink?');"><img src="../images/icons/delete.png"/ class="manage-drink-icons-delete"/></a>
+         <a href="update_product.php?update=<?= $fetch_products['id']; ?>"><img src="../images/update.png"/ class="manage-drink-icons-update"/></a>
+         <a href="products.php?delete=<?= $fetch_products['id']; ?>" onclick="return confirm('delete this drink?');"><img src="../images/delete.png"/ class="manage-drink-icons-delete"/></a>
      </th>
          </tr>
         </div>
